@@ -36,12 +36,20 @@ li {
 	color: #FFFFFF;
 	font-family: 'PT Sans Narrow', sans-serif;
 }
-a:hover {
-	color: cyan;
+
+a:link {
+	text-decoration: none;
+	color: white;
 }
+
 a:visited {
 	color: white;
 }
+
+a:hover {
+	color: #00FFFF;
+}
+
 #middlesent {
 	color:pink;
 	font-family: 'Montserrat';
