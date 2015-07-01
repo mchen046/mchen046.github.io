@@ -10,23 +10,29 @@ h1 {
 h2 {
 	text-align: center;
 	color: #FFC0CB;
-	font-family: 'Lobster', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
 	text-align: center;
 	color: #c5ecff;
-	font-family: 'Lobster', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+	text-align: center;
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
 }
 
 p {
-	text-align: right;
+	text-align: left;
 	color: #FFFFFF;
-	font-family: 'Lobster', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 li {
-	text-align: center;
+	text-align: left;
 	color: #FFFFFF;
 	font-family: 'PT Sans Narrow', sans-serif;
 }
