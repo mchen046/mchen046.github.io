@@ -4,7 +4,7 @@ body {
 h1 {
 	text-align: center;
 	color: #00ace6;
-	font-family: 'Oleo Script', arial, sans-serif;
+	font-family: 'Codystar', arial, sans-serif;
 }
 
 h2 {
@@ -50,12 +50,21 @@ a:hover {
 	color: #00FFFF;
 }
 
-#middlesent {
-	color:pink;
-	font-family: 'Montserrat';
+hr {
+	color: #00FFFF;
 }
 
-#lastsent {
-	color:#97ff6d;
-	font-family: 'Montserrat';
+#bio {
+	text-align: center;
+}
+
+#resume {
+	text-align: center;
+	color: white;
+	font-size: 125%;
+	font-family: 'Pinyon Script', sans-serif;
+}
+
+#resume:hover {
+	color: #00FFFF;
 }
