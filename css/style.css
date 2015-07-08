@@ -1,9 +1,10 @@
 body {
 	background-color: #001e2d;
 }
+
 h1 {
 	text-align: center;
-	color: #00ace6;
+	color: #00FFFF;
 	font-family: 'Codystar', arial, sans-serif;
 }
 
@@ -50,10 +51,6 @@ a:hover {
 	color: #00FFFF;
 }
 
-hr {
-	color: #00FFFF;
-}
-
 #bio {
 	text-align: center;
 }
@@ -66,5 +63,13 @@ hr {
 }
 
 #resume:hover {
+	color: #00FFFF;
+}
+
+#name {
+	color: #00FFFF;
+}
+
+#year {
 	color: #00FFFF;
 }
