@@ -35,7 +35,8 @@ p {
 li {
 	text-align: left;
 	color: #FFFFFF;
-	font-family: 'PT Sans Narrow', sans-serif;
+	font-family: 'PT Sans', sans-serif;
+	/*font-size: 17px;*/
 }
 
 a:link {
