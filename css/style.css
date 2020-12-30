@@ -57,14 +57,14 @@ a:hover {
 	text-align: center;
 }
 
-#resume {
+#link {
 	text-align: center;
 	color: white;
-	font-size: 125%;
+	font-size: 175%;
 	font-family: 'Pinyon Script', sans-serif;
 }
 
-#resume:hover {
+#link:hover {
 	color: #00FFFF;
 }
 
@@ -78,4 +78,9 @@ a:hover {
 
 #major {
     text-align: center;
+}
+
+#headshot {
+	width: 10%;
+	height: 10%;
 }
